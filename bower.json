@@ -1,0 +1,5 @@
+{ "name": "web-fonts-collection"
+, "version": "0.0.1"
+, "license": ["OFL-1.1", "MIT", "CC-BY-3.0"]
+, "main": [ "css/bootstrap-fonts.css", "css/font-awesome.css", "fonts/*" ]
+}
